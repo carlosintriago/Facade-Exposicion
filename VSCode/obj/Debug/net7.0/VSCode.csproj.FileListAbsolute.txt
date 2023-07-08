@@ -1,0 +1,15 @@
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\VSCode.csproj.AssemblyReference.cache
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\VSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\VSCode.AssemblyInfoInputs.cache
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\VSCode.AssemblyInfo.cs
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\VSCode.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\bin\Debug\net7.0\VSCode.exe
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\bin\Debug\net7.0\VSCode.deps.json
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\bin\Debug\net7.0\VSCode.runtimeconfig.json
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\bin\Debug\net7.0\VSCode.dll
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\bin\Debug\net7.0\VSCode.pdb
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\VSCode.dll
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\refint\VSCode.dll
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\VSCode.pdb
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\VSCode.genruntimeconfig.cache
+C:\Users\CARLOS\Desktop\Presentacion\VSCode\obj\Debug\net7.0\ref\VSCode.dll
